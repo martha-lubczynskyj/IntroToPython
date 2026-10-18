@@ -1,2 +1,2 @@
 # IntroToPython
-Basic Python skills, learning about libraries, external APIs etc.
+Basic Python skills, learning about libraries, external APIs, etc.
